@@ -1,5 +1,5 @@
 # useragentsearch
-This tools was created to search for user agents
+This tools was created to analyze for user agents
 
 Command codes for starting the tools
 
